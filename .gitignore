@@ -1,0 +1,15 @@
+credentials.json
+token.json
+personal_emails.csv
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+.ipynb_checkpoints/
+
+.DS_Store
+Thumbs.db
+
+*.log
