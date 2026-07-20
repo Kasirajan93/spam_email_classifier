@@ -165,7 +165,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Doctor Shiva**
+**Kasi Rajan**
 
 AI & Machine Learning Enthusiast
 
